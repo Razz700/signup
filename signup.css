@@ -1,19 +1,26 @@
 body{background-color: black;
 color:white;
-width:1020px;
-padding:70px;
-border:2px solid rgba(20, 35, 203, 0.963);
-padding-left:60px;}
-*{margin:9px;
+width:90vw;
+padding:5vw;
+border:4px solid rgba(20, 35, 203, 0.963);
+padding-left:;}
+*{margin:0px;
 text-align:left;
 font-size:24px;}
-h1{padding:0px 0px 15px 15px;
+h1{padding-bottom:15px;
 font-size:60px;}
+
 .form>input{border:none;
     background-color: black;
     border-bottom:1px solid white;
-    width:900px;
-    margin:0px 0px 0px 9px;
+    width:75vw;
+    margin:0px;
+    padding: 0px;
+   
+}
+.form{
+    margin:0px;
+    padding-bottom:20px;
 }
 button{
 width:226px;
